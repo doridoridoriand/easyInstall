@@ -1,5 +1,9 @@
 /usr/bin/zsh
 
+echo ----installing zsh and vim ----
+sudo apt-get install zsh
+sudo apt-get install vim
+
 echo ----installing zshrc and vimrc----
 cd $HOME
 git clone https://github.com/unosk/dotfiles.git

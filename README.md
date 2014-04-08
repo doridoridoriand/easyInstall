@@ -8,4 +8,4 @@ $ cd $HOME
 $ sudo apt-get install git
 $ git clone https://github.com/doridoridoriand/easyInstall.git
 $ cd easyinstall
-$ ./install.sh
+$ sudo ./install.sh
