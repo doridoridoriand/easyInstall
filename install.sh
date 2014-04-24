@@ -1,7 +1,6 @@
 /usr/bin/zsh
 
-echo ----installing zsh and vim ----
-sudo apt-get install zsh
+echo ----installing and vim ----
 sudo apt-get install vim
 
 echo ----installing zshrc and vimrc----
